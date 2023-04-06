@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Zheity/Nazuna-Template-DiscordV14#readme",
   "dependencies": {
     "chalk": "^4.1.2",
+    "discord-html-transcripts": "^3.1.4",
     "discord.js": "^14.9.0",
     "figlet": "^1.5.2",
     "mal-scraper": "^2.12.0",
