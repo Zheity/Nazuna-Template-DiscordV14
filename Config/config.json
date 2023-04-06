@@ -1,0 +1,8 @@
+{
+    "Bot_Token": "O seu Bot_Token",
+    "Bot_Prefix": "!",
+    "Mongo_URL": "Mongo url",
+    "Owner_ID": "o seu id",
+    "Guild_ID": "id do servidor",
+    "Logs_Error": "Weebwook para onde vai ser enviado as logs de erro"
+  }

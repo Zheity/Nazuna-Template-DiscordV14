@@ -1,0 +1,27 @@
+{
+  "name": "bot_base_dj14",
+  "version": "1.0.0",
+  "description": "base do bot discord.js V14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zheity/Nazuna-Template-DiscordV14.git"
+  },
+  "author": "Nazuna#2213",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zheity/Nazuna-Template-DiscordV14/issues"
+  },
+  "homepage": "https://github.com/Zheity/Nazuna-Template-DiscordV14#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.9.0",
+    "figlet": "^1.5.2",
+    "mal-scraper": "^2.12.0",
+    "mongoose": "^7.0.3",
+    "ms": "^2.1.3"
+  }
+}
