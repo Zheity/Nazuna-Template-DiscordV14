@@ -1,5 +1,6 @@
 const fs = require("node:fs");
 const chalk = require("chalk");
+const config = require('../Config/config.json');
 
 //Carregar eventos
 const loadEvents = async function (client) {
